@@ -2,7 +2,7 @@
 # Project Title - Endangered Sea Animals
 ## Contributors - Angel Fernandes​, Ankesh Kumar​, Jason Leung​, Jian Gao
 
-## Objective - Detecting the endangered species and locating their presence in the under-water.
+## Objective - Detecting each of 5 endangered species as well as classifying underwater photos as containing an endangered animal versus containing ~20 non-endangered species. 
 
 Dataset Preperation - Sea Animals Image Dataset (https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste)
 - 23 different Sea animal classes.
@@ -23,3 +23,5 @@ class_0: ['Turtle_Tortoise', 'Jelly Fish', 'Dolphin', 'Sharks', 'Whale', 'Octopu
 ### Test Accuracy: 0.9452
 
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/55c815a1-7d95-4614-a1dc-904d4ebe50a1">
+
+Powerpoint presentation attached that our hackathon group presented to the whole gathering at the end of a full day of hacking! We weren't able to quite get the ResNet results by the 3:30pm deadline to be able to show in our powerpoint but we got some decent results an hour later, just too late to present! I think we have a pretty beneficial use case here for image classification that would be useful for underwater camera trap systems.
